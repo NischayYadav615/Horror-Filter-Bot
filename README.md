@@ -115,7 +115,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
 <p>
 <br>
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilanBotsZ%2FPremiumFilter">
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FNischayYadav615Z%2FHorror-Filter-Bot">
   <img src="https://railway.app/button.svg" alt="deploy-to-railway">
   </a>
   </p>
